@@ -1,2 +1,6 @@
-# Programmers-CodingTest
-프로그래머스 사이트에서 연습한 코딩 테스트 목록입니다.
+# Algorithm-CodingTest
+자료구조/알고리즘 및 코딩테스트 관련 기록입니다.
+
+## 목록
+### 프로그래머스
+### 백준
